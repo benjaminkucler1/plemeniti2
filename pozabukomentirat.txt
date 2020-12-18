@@ -1,0 +1,15 @@
+Domača naloga
+Tokrat boste nalogo izvajali v parih. Za iskanje drugega lahko uporabite
+poseben kanal na Teams.
+Študent A naj ustvari nov repozitorij na GitHubu. Doda naj nekaj
+datotek.
+Študent B naj naredi fork repozitorija in s Pull Requestom doda nekaj
+datotek.
+Študent A naj komentira in sprejme.
+Oba naj spremenita readme.md
+Oddajte povezavo do repozitorija in uporabniško ime
+
+Študent A naj komentira in sprejme.
+Študent A naj komentira in sprejme.
+Študent A naj komentira in sprejme.
+Študent A naj komentira in sprejme.
